@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applitools:eyes-android-common:4.7.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applitools/eyes-android-common/4.7.10/771d4764b057ce3ce83baac7389989226c7905fc/eyes-android-common-4.7.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applitools/eyes-android-common/4.7.10/396909e3806054e273cbc6db9b1173ffda791f5f/eyes-android-common-4.7.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
